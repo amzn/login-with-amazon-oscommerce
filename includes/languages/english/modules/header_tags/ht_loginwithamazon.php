@@ -1,0 +1,3 @@
+<?php
+define('MODULE_HEADER_TAGS_LOGINWITHAMAZON_TITLE', 'Login With Amazon');
+define('MODULE_HEADER_TAGS_LOGINWITHAMAZON_DESCRIPTION', 'Login With Amazon');
