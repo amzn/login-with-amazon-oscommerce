@@ -1,4 +1,12 @@
 <?php
+/**
+ * Amazon Login - Login for osCommerce
+ *
+ * @category    Amazon
+ * @package     Amazon_Login
+ * @copyright   Copyright (c) 2015 Amazon.com
+ * @license     http://opensource.org/licenses/Apache-2.0  Apache License, Version 2.0
+ */
 $output = '<div style="padding-top:25px;font-size:16px;text-align:center;">';
 if(!$authorized) {
     $output .= '<div style="padding:5px;">Amazon Payments authorization is currently pending.</div>';

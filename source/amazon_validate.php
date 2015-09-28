@@ -1,4 +1,12 @@
 <?php
+/**
+ * Amazon Login - Login for osCommerce
+ *
+ * @category    Amazon
+ * @package     Amazon_Login
+ * @copyright   Copyright (c) 2015 Amazon.com
+ * @license     http://opensource.org/licenses/Apache-2.0  Apache License, Version 2.0
+ */
 require 'includes/modules/payment/paywithamazon/lib/MarketplaceWebServiceSellers/Client.php';
 require 'includes/modules/payment/paywithamazon/lib/MarketplaceWebServiceSellers/Model/ListMarketplaceParticipationsRequest.php';
 
