@@ -45,7 +45,7 @@ First, you will need to register your website as an Application on the App Conso
 If you have a custom process, these instructions may need to be modified slightly to fit your deployment process.
 
 1. Create a backup.
-2. [Download the plugin](https://github.com/BuildRX/oscommerce_login_with_amazon/raw/master/build/loginwithamazon.zip).
+2. [Download the plugin](https://github.com/amzn/login-with-amazon-oscommerce/raw/master/build/loginwithamazon.zip).
 3. Extract the zip file.
 4. Copy the contents of the zip file to the root of your osCommerce install (via FTP or however you typically upload files to your site).
 5. Test as desired.
